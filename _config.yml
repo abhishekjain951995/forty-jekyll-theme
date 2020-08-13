@@ -3,7 +3,7 @@ title: Abhishek
 subtitle: Jain
 email: abhishekjain951995@gmail.com
 description: A enthusiatic developer, looking for exiciting challanges to solve.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://jainabhishek.dev
 author: Abhishek Jain
 street_address: 6, Sati Ji Ki Baghichi, M.D. Road
